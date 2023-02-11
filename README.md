@@ -1,7 +1,15 @@
-说明：
+#  siyangyuan-coding
 
-* 这是一个听课笔记。包含b站饲养员的算法培训视频。
-* 主要包含python版本的实现。
+siyangyuan-coding 是一个用于练习 LeetCode 的代码仓库，包含了各种练习过的代码以及不同的解法。
 
-1. leetcode 1
+## 目录
 
+按照 LeetCode 上题目的编号列出所有代码。
+
+## 贡献
+
+如果您有任何问题或建议，欢迎提交 issue 或 pull request。
+
+## 许可证
+
+此项目使用 MIT 许可证进行许可，详情请参阅 LICENSE 文件。
